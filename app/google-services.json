@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855093936535",
+    "project_id": "steamcloneauth",
+    "storage_bucket": "steamcloneauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855093936535:android:fbfe773c87ecb51dd704d2",
+        "android_client_info": {
+          "package_name": "br.com.github.caioreigot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855093936535-1p3t48kl8n7taept8crtjgdh12aiakuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3g4xaphMSAfmx6LB6gN-S-R7Ptf1TdvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855093936535-1p3t48kl8n7taept8crtjgdh12aiakuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
